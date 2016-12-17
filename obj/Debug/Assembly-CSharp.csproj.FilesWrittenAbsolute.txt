@@ -1,0 +1,13 @@
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/UnityEngine.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/UnityEditor.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Mono.Cecil.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Unity.DataContract.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/tranquyen/Desktop/FruitNinja/Temp/bin/Debug/Mono.Cecil.Mdb.dll

@@ -1,0 +1,10 @@
+lastUpgrade=00934
+proj.pluginVersion=0.9.34
+proj.AppId=444917352334
+and.BundleId=com.stomstudio.fruitninjaslash
+proj.classDir=Assets
+proj.ConstantsClassName=GPGS
+and.ResourceData=%3c%3fxml+version%3d%221.0%22+encoding%3d%22utf-8%22%3f%3e%0a%3c%21--%0aGoogle+Play+game+services+IDs.%0aSave+this+file+as+res%2fvalues%2fgames-ids.xml+in+your+project.%0a--%3e%0a%3cresources%3e%0a++%3cstring+name%3d%22app_id%22%3e444917352334%3c%2fstring%3e%0a++%3cstring+name%3d%22package_name%22%3ecom.stomstudio.fruitninjaslash%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_fruit_ninja_1%22%3eCgkIjo-QufkMEAIQAQ%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_fruit_ninja_2%22%3eCgkIjo-QufkMEAIQAg%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_fruit_ninja_3%22%3eCgkIjo-QufkMEAIQAw%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_fruit_ninja_4%22%3eCgkIjo-QufkMEAIQBA%3c%2fstring%3e%0a++%3cstring+name%3d%22achievement_fruit_ninja_5%22%3eCgkIjo-QufkMEAIQBQ%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_high_score%22%3eCgkIjo-QufkMEAIQBg%3c%2fstring%3e%0a++%3cstring+name%3d%22leaderboard_fruit_slashed%22%3eCgkIjo-QufkMEAIQBw%3c%2fstring%3e%0a%3c%2fresources%3e
+and.ClientId=
+proj.requireGPlus=false
+android.SetupDone=true
